@@ -20,13 +20,13 @@ If you work on Linux/Ubuntu then you have to install Tkinter module on your mach
 
 <h1>Prerequisite for Digital Clock</h1>
 
-For developing a simple GUI calculator in python you must have to prior knowledge of following –<br>
+For developing a simple phone number locator in python you must have to prior knowledge of following –<br>
 
-1. Tkinter<br>
+1. Folium<br>
 
-2. Time<br>
+2. Phonenumbers<br>
 
-3. Datetime<br>
+3. OpenCageGeocode<br>
 
 <br>
 
