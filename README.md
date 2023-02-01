@@ -4,11 +4,11 @@
 
 <br>
 
-Python offers a lot of options to develop  GUI applications, but Tkinter is the most usable module for developing GUI(Graphical User Interface). Since Tkinter is cross-platform so it works on both windows and Linux. So here i am using Tkinter module to create a simple python Digital Clock.
+Python offers a lot of modules to make coding easier. In this project, I made use of some efficient but uncommon modules to look any phone number where ever it may be in as much as it's online or active. It include a map which shows the exact location of the map.
 
-The fastest and easiest way of developing GUI applications in python is working with Tkinter. So let’s took a quick look on Tkinter.
 
-installation.
+
+
 
 <br>
 
@@ -24,7 +24,7 @@ For developing a simple phone number locator in python you must have to prior kn
 
 <br>
 
-<b>And now we will start 
+
 
 
 <b>And now we will start writing codes for making this. To create this we have to do four things</b> –<br>
