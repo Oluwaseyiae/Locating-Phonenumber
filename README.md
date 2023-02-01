@@ -1,6 +1,6 @@
-<center><h1>Digital Clock</h1></center>
+<center><h1>Locating Phone number</h1></center>
 
-<h2>A simple Digital Clock with GUI using Tkinter in python.</h2>
+<h2>A simple phone number locator in python.</h2>
 
 <br>
 
