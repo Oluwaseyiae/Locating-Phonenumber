@@ -4,12 +4,14 @@
 
 <br>
 
-Python offers a lot of modules to make coding easier. In this project, I made use of some efficient but uncommon modules to look any phone number where ever it may be in as much as it's online or active. It include a map which shows the exact location of the map.
+Python offers a lot of modules to make coding easier. In this project, I made use of some efficient but uncommon modules to locate any phone number where ever it may be in as much as it's online or active. It include a map which shows the exact location of the map.
+
+We wiil also make use of Opencage website. We'll make an accout and copy the API key. 
 
 
 
 
-
+Opencage website: https://opencagedata.com/
 <br>
 
 <h1>Prerequisite for Phone Number Locator</h1>
