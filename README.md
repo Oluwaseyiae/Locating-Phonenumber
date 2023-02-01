@@ -29,13 +29,13 @@ For developing a simple phone number locator in python you must have to prior kn
 
 <b>And now we will start writing codes for making this. To create this we have to do four things</b> –<br>
 
-1. Importing Tkinter module<br>
+1. Importing the modules listed above<br>
 
-2. Creating the main interface(window for digital clock)<br>
+2. Creating a file named "number" and store a phone number <br>
 
-3. Create a function and adding all the properties to the main interface.<br>
+3. Get the needed link from opencage website and use it in the code</br>
 
-4. Call the function.
+4. 
 
 <br>
 
