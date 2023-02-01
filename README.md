@@ -35,7 +35,7 @@ For developing a simple phone number locator in python you must have to prior kn
 
 3. Get the needed link from opencage website and use it in the code</br>
 
-4. 
+<p> Check the code and follow the steps accordingly. It needs internet connection to function</p> 
 
 <br>
 
