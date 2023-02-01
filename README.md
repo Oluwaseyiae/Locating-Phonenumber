@@ -1,4 +1,18 @@
 
+<b>And now we will start writing codes for making this. To create this we have to do four things</b> –<br>
+
+1. Importing Tkinter module<br>
+
+2. Creating the main interface(window for digital clock)<br>
+
+3. Create a function and adding all the properties to the main interface.<br>
+
+4. Call the function.
+
+<br>
+
+<br>
+
 
 
   Feel free to contribute
