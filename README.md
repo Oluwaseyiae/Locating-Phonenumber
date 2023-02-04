@@ -25,7 +25,7 @@ For developing a simple phone number locator in python you must have to prior kn
 3. OpenCageGeocode<br>
 
 <br>
-
+<img alt="preview" src="images/pic-1"><img alt="preview" src="images/pic-2">
 
 
 
